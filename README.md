@@ -1,1 +1,3 @@
 # Python-leetcode
+
+* Easy Level

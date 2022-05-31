@@ -1,10 +1,10 @@
-# Python-leetcode
+# [Python-leetcode](https://github.com/CyC2018/CS-Notes/blob/master/notes/Leetcode%20%E9%A2%98%E8%A7%A3%20-%20%E7%9B%AE%E5%BD%95.md)
 1. 双指针
 <!-- GFM-TOC -->
 * [Leetcode 题解 - 双指针](#leetcode-题解---双指针)
-    * [1. 有序数组的 Two Sum](#1-有序数组的-two-sum)
+    * [1. 有序数组的 Two Sum]([#1-有序数组的-two-sum](https://github.com/CyC2018/CS-Notes/blob/master/notes/Leetcode%20%E9%A2%98%E8%A7%A3%20-%20%E5%8F%8C%E6%8C%87%E9%92%88.md#1-%E6%9C%89%E5%BA%8F%E6%95%B0%E7%BB%84%E7%9A%84-two-sum))
     * [2. 两数平方和](#2-两数平方和)
-    * [3. 反转字符串中的元音字符](#3-反转字符串中的元音字符)
+    * [3. 反转字符串中的元音字符](#3-反转字符串中的元音字符
     * [4. 回文字符串](#4-回文字符串)
     * [5. 归并两个有序数组](#5-归并两个有序数组)
     * [6. 判断链表是否存在环](#6-判断链表是否存在环)
